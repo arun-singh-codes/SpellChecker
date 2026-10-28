@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-const API = "http://localhost:8000";
+const API = "https://spellchecker-ak2f.onrender.com";
 const SAMPLE = "Teh quick brown fox jumpd over the lazy dog. The dog was not happpy, but the fox did not care.";
 
 export default function App() {
